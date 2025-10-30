@@ -1,0 +1,12 @@
+{
+  "welcome": "مرحبًا بك في بنك الذكاء",
+  "description": "منصة تنفيذية ذكية تحوّل أفكارك إلى مشاريع واقعية",
+  "startNow": "ابدأ الآن",
+  "placeholder": "اكتب فكرتك هنا...",
+  "execute": "تنفيذ",
+  "responseTitle": "النتيجة",
+  "errorEmpty": "يرجى كتابة فكرة لتنفيذها.",
+  "loading": "جاري التنفيذ...",
+  "errorExecution": "حدث خطأ أثناء التنفيذ",
+  "footer": "© 2025 BankOfIntelligence. جميع الحقوق محفوظة."
+}
