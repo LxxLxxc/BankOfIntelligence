@@ -1,0 +1,15 @@
+# .gitignore – تجاهل الملفات المؤقتة والخاصة
+
+__pycache__/
+*.pyc
+*.log
+.env
+.vscode/
+node_modules/
+dist/
+build/
+.DS_Store
+*.sqlite3
+*.db
+*.bak
+*.tmp
