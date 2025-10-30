@@ -1,0 +1,19 @@
+{
+  "projectName": "BankOfIntelligence",
+  "defaultLanguage": "ar",
+  "branding": {
+    "primaryColor": "#d4af37",
+    "secondaryColor": "#ffffff",
+    "logoPath": "public/logo.png"
+  },
+  "features": {
+    "chat": true,
+    "aiExecution": true,
+    "fileUpload": false,
+    "voiceInput": false
+  },
+  "security": {
+    "requireLogin": false,
+    "allowGuestAccess": true
+  }
+}
