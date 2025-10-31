@@ -1,0 +1,62 @@
+body {
+  font-family: "Cairo", sans-serif;
+  background-color: #fff;
+  color: #333;
+  direction: rtl;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-bottom: 2px solid gold;
+}
+
+.logo {
+  width: 80px;
+  margin-bottom: 10px;
+}
+
+h1, h2 {
+  color: goldenrod;
+}
+
+.chat-section {
+  margin: 30px auto;
+  max-width: 500px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fefefe;
+}
+
+textarea, input[type="text"], input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: goldenrod;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #d4af37;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 10px;
+  font-size: 14px;
+  color: #999;
+}
